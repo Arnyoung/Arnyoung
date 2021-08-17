@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arnyoung
 - 👀 I’m interested in data and security.
 - 🌱 I’m currently learning mitigation of supply chain risks in virtualized infrastructure. 
-- 💞️ I’m looking to collaborate on application devlopment.
+- 💞️ I’m looking to collaborate on microservices application devlopment.
 - 📫 How to reach me: kampoukeo.com
