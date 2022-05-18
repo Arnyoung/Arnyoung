@@ -1,5 +1,5 @@
 👋 Hi, I’m @Arnyoung
-- 👀 I’m interested in Microservice architecture and design.
-- 🌱 I’m currently learning mitigation of supply chain risks in virtualized infrastructure. 
-- 💞️ I’m looking to collaborate on microservices application development.
-- 📫 How to reach me: kampoukeo.com
+👀 Interested in Microservice architecture and design.
+🌱 Currently learning mitigation of supply chain risks in virtualized infrastructure. 
+💞️ Looking to collaborate on Kubernetes open source development.
+📫 How to reach me: kampoukeo.com
